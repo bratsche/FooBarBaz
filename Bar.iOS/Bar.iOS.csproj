@@ -140,6 +140,10 @@
       <Project>{3EEAD458-98D5-41D5-B23D-85FF98844C33}</Project>
       <Name>Bar</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Baz\Baz.csproj">
+      <Project>{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}</Project>
+      <Name>Baz</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

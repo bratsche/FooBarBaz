@@ -141,5 +141,9 @@
       <Project>{6F5B2DEC-A700-4244-86C6-39996F228A22}</Project>
       <Name>Foo</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Baz\Baz.csproj">
+      <Project>{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}</Project>
+      <Name>Baz</Name>
+    </ProjectReference>
   </ItemGroup>
 </Project>
