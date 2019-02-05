@@ -7,7 +7,8 @@ namespace Bar.Models
     public enum MenuItemType
     {
         Browse,
-        About
+        About,
+        Shared
     }
     public class HomeMenuItem
     {

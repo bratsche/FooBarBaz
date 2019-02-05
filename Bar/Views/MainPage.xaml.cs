@@ -32,6 +32,9 @@ namespace Bar.Views
                     case (int)MenuItemType.About:
                         MenuPages.Add(id, new NavigationPage(new AboutPage()));
                         break;
+                    case (int)MenuItemType.Shared:
+                        MenuPages.Add(id, new NavigationPage(new Baz.SharedPage()));
+                        break;
                 }
             }
 
