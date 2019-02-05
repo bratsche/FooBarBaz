@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bar.iOS", "Bar.iOS\Bar.iOS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bar", "Bar\Bar.csproj", "{3EEAD458-98D5-41D5-B23D-85FF98844C33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baz", "Baz\Baz.csproj", "{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,5 +97,17 @@ Global
 		{3EEAD458-98D5-41D5-B23D-85FF98844C33}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{3EEAD458-98D5-41D5-B23D-85FF98844C33}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{3EEAD458-98D5-41D5-B23D-85FF98844C33}.Release|iPhone.Build.0 = Release|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{8E343FAB-0729-4B07-9C24-ABCCDA3B9E82}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
